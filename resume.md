@@ -3,4 +3,6 @@
 - Location: Golden, CO
 
 ## Education
-- 2nd year Undergraduate student at Colorado School of Mines majoring in Geophysical Engineering and minoring in Geology.
+- Second year Undergraduate student at Colorado School of Mines.
+- Majoring in Geophysical Engineering.
+- Minoring in Geology.
