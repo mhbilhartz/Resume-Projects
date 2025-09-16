@@ -17,7 +17,10 @@
 - **Data Analysis:** Skilled in cleaning and organizing datasets, reindexing data frames, and preparing data for visualization and presentation.  
 - **Technical Tools:** Experience with MATLAB for plotting and data visualization, as well as working with Jupyter Notebooks (`.ipynb`) for interactive coding and reporting.  
 - **Collaboration & Version Control:** Comfortable working in shared repositories and using command-line interfaces (Git Bash) and VS Code for development.  
+    
+---
 
+## Skills
 - **Field & Instrumentation Skills:** Hands-on experience with geophysical and surveying equipment, including:  
   - Corner reflectors 
   - Handheld GPS devices  
@@ -25,10 +28,6 @@
   - DGPS stations (Trimble R10/R12)  
   - Emlid Reach RS2+/RS3 receivers and Emlid Flow software  
   - Multimeters for electrical measurements with electrodes
-    
----
-
-## Skills
 - Leadership
 - Collaboration
 - Organization
