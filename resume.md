@@ -19,7 +19,7 @@
 ## Experience
 - **Programming:** Foundational experience in Python, including writing scripts, debugging, and exploratory data analysis.  
 - **Data Analysis:** Skilled in cleaning and organizing datasets, reindexing data frames, and preparing data for visualization and presentation.  
-- **Technical Tools:** Experience with MATLAB for plotting and data visualization, as well as working with Jupyter Notebooks (`.ipynb`) for interactive coding and reporting.  
+- **Technical Tools:** Experience with Jupyter Notebooks (`.ipynb`) for interactive coding and reporting.  
 - **Collaboration & Version Control:** Comfortable working in shared repositories and using command-line interfaces (Git Bash) and VS Code for development.  
 
 ---
