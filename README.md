@@ -14,4 +14,4 @@ This repository serves as a collection of projects, assignments, and examples th
 ## About
 This repository is actively updated as I continue my undergraduate studies at **Colorado School of Mines (B.S. Geophysical Engineering, Minor in Geology, Class of 2027)**.  
 
-For more information, feel free to connect with me on [LinkedIn](https://www.linkedin.com).  
+For more information, feel free to connect with me on [LinkedIn](www.linkedin.com/in/molly-bilhartz).  
