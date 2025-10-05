@@ -1,6 +1,5 @@
 # Molly Bilhartz
 - Golden, Colorado
-- (214)-973-1387
 - mhbilhartz@mines.edu
 
 ## Connect with me on **LinkedIn!**
