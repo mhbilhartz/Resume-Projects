@@ -9,7 +9,8 @@
 - **The Westwood School** - Dallas, TX
   Graduation: May 2023
 - **Colorado School of Mines** — Golden, CO  
-  *Bachelor of Science in Geophysical Engineering, Minor in Geology*  
+  *Bachelor of Science in Geophysical Engineering, Minor in Geology*
+  GPA: 3.132 on a 4.0 scale
   Graduation: May 2027
 - President's Scholarship Recipient
 - Geophysics First-Year Scholarship Recipient
@@ -36,6 +37,8 @@
   - Electrical Resistivity Tomography (ERT) - Supersting
   - Gravimeter, Autograv CG-5
   - Magnetometers, Geometrics G-858, Geometrics MagArrow
+  - Geonics EM-47 Transient EM System
+  - ABEM WalkTEM2
  
 - Leadership  
 - Collaboration  
