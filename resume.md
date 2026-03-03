@@ -6,13 +6,11 @@
 - https://www.linkedin.com/in/molly-bilhartz/
 
 ## Education
-- **The Westwood School** - Dallas, TX
-  Graduation: May 2023
 - **Colorado School of Mines** — Golden, CO  
-  *Bachelor of Science in Geophysical Engineering, Minor in Geology*
-  GPA: 3.132
-  Dean's list fall semester Junior year
-  Graduation: May 2027
+- *Bachelor of Science in Geophysical Engineering, Minor in Geology*
+- GPA: 3.132
+- Dean's list fall semester Junior year
+- Graduation: May 2027
 - President's Scholarship Recipient
 - Geophysics First-Year Scholarship Recipient
 - Relevant Coursework: Geophysical Data Analysis, CS for STEM (Python), Mathematical Geophysics, Structural Geology, Earth Materials for Mining Engineers, Physics of the Earth, Applied Geophysics (field equipment).
@@ -40,6 +38,9 @@
   - Magnetometers, Geometrics G-858, Geometrics MagArrow
   - Geonics EM-47 Transient EM System
   - ABEM WalkTEM2
+  - Gem-2
+  - EM-31
+  - GPR cart
  
 - Leadership  
 - Collaboration  
