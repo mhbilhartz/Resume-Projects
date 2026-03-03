@@ -10,7 +10,8 @@
   Graduation: May 2023
 - **Colorado School of Mines** — Golden, CO  
   *Bachelor of Science in Geophysical Engineering, Minor in Geology*
-  GPA: 3.132 on a 4.0 scale
+  GPA: 3.132
+  Dean's list fall semester Junior year
   Graduation: May 2027
 - President's Scholarship Recipient
 - Geophysics First-Year Scholarship Recipient
